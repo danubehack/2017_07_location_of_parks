@@ -7,7 +7,8 @@ We used MVT (mapbox vector tiles) with PostGIS to show nearby parks via mapbox-g
 
 ## Results
 - Project details: https://github.com/MichalPP/mapa-zelene
-- Demo webapp: https://epsilon.sk/mapa-zelene/
+- Demo webapp:- Demo webapp: https://epsilon.sk/mapa-zelene/
+- Video: https://youtu.be/_cfuI134_CM
 
 
 
